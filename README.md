@@ -4,7 +4,7 @@ I am a passionate data engineer and data science enthusiast pursuing my Master�
 
 - 🔭 I’m currently working on
 
-Image Detection for Personal Protective Equipment: Developing a robust detection system using deep learning models to ensure workplace safety.
+    - Image Detection for Personal Protective Equipment: Developing a robust detection system using deep learning models to ensure workplace safety.
 
 Large Language Model (LLM): Exploring and fine-tuning LLMs for advanced natural language understanding and applications.
 
