@@ -4,9 +4,9 @@ I am a passionate Data Engineer and Data Science professional with a Master’s 
 
 - 🔭 I’m currently working on
 
-      Machine Learning Applications: Building robust deep learning models for real-world prediction and classification tasks.
+  Machine Learning Applications: Building robust deep learning models for real-world prediction and classification tasks.
 
-      LLMs Exploration: Fine-tuning large language models for innovative natural language processing solutions.
+  LLMs Exploration: Fine-tuning large language models for innovative natural language processing solutions.
 
 - 🌱 I’m currently learning
 
