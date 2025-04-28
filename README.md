@@ -1,11 +1,12 @@
 Hi there. I'm Sanjana Reddy Soma! 👋
 
-I am a passionate data engineer and data science enthusiast pursuing my Master’s degree in Data Science at UMBC. With a strong foundation in machine learning, cloud solutions, and big data technologies, I aim to transform data into actionable insights.
+I am a passionate Data Engineer and Data Science professional with a Master’s degree in Data Science at UMBC. I have hands-on experience in building scalable data pipelines, cloud solutions, and machine learning applications, with a strong commitment to transforming data into meaningful business insights.
 
 - 🔭 I’m currently working on
 
-    - Image Detection for Personal Protective Equipment: Developing a robust detection system using deep learning models to ensure workplace safety.
-    - Large Language Model (LLM): Exploring and fine-tuning LLMs for advanced natural language understanding and applications.
+      Machine Learning Applications: Building robust deep learning models for real-world prediction and classification tasks.
+
+      LLMs Exploration: Fine-tuning large language models for innovative natural language processing solutions.
 
 - 🌱 I’m currently learning
 
