@@ -4,13 +4,13 @@ I am a passionate Data Engineer and Data Science professional with a Master’s 
 
 - 🔭 I’m currently working on
 
-  Machine Learning Applications: Building robust deep learning models for real-world prediction and classification tasks.
-
-  LLMs Exploration: Fine-tuning large language models for innovative natural language processing solutions.
+    - Machine Learning Applications: Building robust deep learning models for real-world prediction and classification tasks.
+    - LLMs Exploration: Fine-tuning large language models for innovative natural language processing solutions.
 
 - 🌱 I’m currently learning
 
-    - Databricks Certified Data Engineer Associate: Enhancing my skills in building and optimizing data pipelines with Databricks.
+    - Fine-tuning and optimization of Large Language Models (LLMs)
+    - Advanced techniques in Natural Language Processing (NLP)
 
 - 👯 I’m looking to collaborate on
 
@@ -32,7 +32,7 @@ I am a passionate Data Engineer and Data Science professional with a Master’s 
 
 - 💼 I’m looking for
   
-    - Internship opportunities in data engineering, machine learning, or related fields.
+    - Seeking full-time opportunities as Data Engineer, Machine Learning Engineer, where I can contribute to design scalable data-driven solutions and cutting edge AI-innovations.
 
 <!--
 **sanjanareddysoma/sanjanareddysoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
